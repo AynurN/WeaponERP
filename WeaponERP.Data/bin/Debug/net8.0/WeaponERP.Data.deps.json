@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeaponERP.Data/1.0.0": {
+        "dependencies": {
+          "WeaponERP.Core": "1.0.0"
+        },
+        "runtime": {
+          "WeaponERP.Data.dll": {}
+        }
+      },
+      "WeaponERP.Core/1.0.0": {
+        "runtime": {
+          "WeaponERP.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeaponERP.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeaponERP.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

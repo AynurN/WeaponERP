@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\bin\Debug\net8.0\WeaponERP.Data.deps.json
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\bin\Debug\net8.0\WeaponERP.Data.dll
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\bin\Debug\net8.0\WeaponERP.Data.pdb
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\obj\Debug\net8.0\WeaponERP.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\obj\Debug\net8.0\WeaponERP.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\obj\Debug\net8.0\WeaponERP.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\obj\Debug\net8.0\WeaponERP.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\obj\Debug\net8.0\WeaponERP.Data.sourcelink.json
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\obj\Debug\net8.0\WeaponERP.Data.dll
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\obj\Debug\net8.0\refint\WeaponERP.Data.dll
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\obj\Debug\net8.0\WeaponERP.Data.pdb
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\obj\Debug\net8.0\ref\WeaponERP.Data.dll
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\bin\Debug\net8.0\WeaponERP.Core.dll
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\bin\Debug\net8.0\WeaponERP.Core.pdb
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\obj\Debug\net8.0\WeaponERP.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\PB201-hws\WaeponERP\WeaponERP.Data\obj\Debug\net8.0\WeaponER.EC201C93.Up2Date

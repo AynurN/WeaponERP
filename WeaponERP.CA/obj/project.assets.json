@@ -1,0 +1,180 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "System.Windows.Extensions/8.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/System.Windows.Extensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.Windows.Extensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Windows.Extensions.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "WeaponERP.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "System.Windows.Extensions": "8.0.0",
+          "WeaponERP.Core": "1.0.0",
+          "WeaponERP.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WeaponERP.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeaponERP.Business.dll": {}
+        }
+      },
+      "WeaponERP.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/WeaponERP.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeaponERP.Core.dll": {}
+        }
+      },
+      "WeaponERP.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "WeaponERP.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WeaponERP.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WeaponERP.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "System.Windows.Extensions/8.0.0": {
+      "sha512": "Obg3a90MkOw9mYKxrardLpY2u0axDMrSmy4JCdq2cYbelM2cUwmUir5Bomvd1yxmPL9h5LVHU1tuKBZpUjfASg==",
+      "type": "package",
+      "path": "system.windows.extensions/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net6.0/System.Windows.Extensions.dll",
+        "lib/net6.0/System.Windows.Extensions.xml",
+        "lib/net7.0/System.Windows.Extensions.dll",
+        "lib/net7.0/System.Windows.Extensions.xml",
+        "lib/net8.0/System.Windows.Extensions.dll",
+        "lib/net8.0/System.Windows.Extensions.xml",
+        "runtimes/win/lib/net6.0/System.Windows.Extensions.dll",
+        "runtimes/win/lib/net6.0/System.Windows.Extensions.xml",
+        "runtimes/win/lib/net7.0/System.Windows.Extensions.dll",
+        "runtimes/win/lib/net7.0/System.Windows.Extensions.xml",
+        "runtimes/win/lib/net8.0/System.Windows.Extensions.dll",
+        "runtimes/win/lib/net8.0/System.Windows.Extensions.xml",
+        "system.windows.extensions.8.0.0.nupkg.sha512",
+        "system.windows.extensions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "WeaponERP.Business/1.0.0": {
+      "type": "project",
+      "path": "../WeaponERP.Business/WeaponERP.Business.csproj",
+      "msbuildProject": "../WeaponERP.Business/WeaponERP.Business.csproj"
+    },
+    "WeaponERP.Core/1.0.0": {
+      "type": "project",
+      "path": "../WeaponERP.Core/WeaponERP.Core.csproj",
+      "msbuildProject": "../WeaponERP.Core/WeaponERP.Core.csproj"
+    },
+    "WeaponERP.Data/1.0.0": {
+      "type": "project",
+      "path": "../WeaponERP.Data/WeaponERP.Data.csproj",
+      "msbuildProject": "../WeaponERP.Data/WeaponERP.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "WeaponERP.Business >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\PB201-hws\\WaeponERP\\WeaponERP.CA\\WeaponERP.CA.csproj",
+      "projectName": "WeaponERP.CA",
+      "projectPath": "C:\\Users\\user\\Desktop\\PB201-hws\\WaeponERP\\WeaponERP.CA\\WeaponERP.CA.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\PB201-hws\\WaeponERP\\WeaponERP.CA\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\user\\Desktop\\PB201-hws\\WaeponERP\\WeaponERP.Business\\WeaponERP.Business.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\PB201-hws\\WaeponERP\\WeaponERP.Business\\WeaponERP.Business.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

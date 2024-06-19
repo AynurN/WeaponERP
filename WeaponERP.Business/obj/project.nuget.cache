@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Ygo4s9onXPpjNsNsTUrmgg8uJd7GDF+OnyN0mtQ6lOj+/AJoWV2kj9TZb0bUzxOXf7LNqhWQpKGbcAM6CY7ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\PB201-hws\\WaeponERP\\WeaponERP.Business\\WeaponERP.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
